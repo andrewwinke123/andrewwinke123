@@ -3,6 +3,14 @@
 
 
 
+
+<p align="center"
+About Me:
+<br>
+I am an artist, a software developer, and a family man. I am working on some game designs in my spare time. Hoping to post them soon. I am currently job seeking, and looking to work on projects so feel free to reach out to me about anything at all.
+</p>
+
+
 <p align="center">
 Contact me:
 <br>
@@ -14,11 +22,8 @@ Contact me:
 </a>
 </p>
 
-<p align="center"
-About Me:
-<br>
-I am an artist, a software developer, and a family man. I am working on some game designs in my spare time. Hoping to post them soon. I am currently job seeking, and looking to work on projects so feel free to reach out to me about anything at all.
-</p>
+
+
 
 
 
