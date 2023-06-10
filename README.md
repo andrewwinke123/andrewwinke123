@@ -5,9 +5,13 @@
 - 📫 How to reach me andrewworke@gmail.com
 
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewwinke123&show_icons=true&theme=highcontrast&hide=stars)
+<div style="display: flex;">
+  <!-- Chart 1 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewwinke123&show_icons=true&theme=highcontrast&hide=stars" alt="Andrew's GitHub stats" style="width: 50%;">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewwinke123&layout=compact&theme=highcontrast)
+  <!-- Chart 2 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewwinke123&layout=compact&theme=highcontrast" alt="Top Langs" style="width: 50%;">
+</div>
 
 <!---
 andrewwinke123/andrewwinke123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
