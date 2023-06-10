@@ -5,7 +5,7 @@
 - 📫 How to reach me andrewworke@gmail.com
 
 
-| ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewwinke123&show_icons=true&theme=highcontrast&hide=stars) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewwinke123&layout=compact&theme=highcontrast) |
+| ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewwinke123&show_icons=true&theme=radical&hide=stars) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewwinke123&layout=compact&theme=radical) |
 | --- | --- |
 
 <!---
