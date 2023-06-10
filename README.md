@@ -14,13 +14,11 @@ Contact me:
 </a>
 </p>
 
-
-About Me: 
-👋 Hi, I’m @andrewwinke123 |
-👀 I’m interested in making boring aspects of the internet more fun 
-🌱 I’m currently learning MERN full-stack development 
-💞️ I’m looking to collaborate on ANYTHING at the moment 
-📫 How to reach me andrewworke@gmail.com 
+<p align="center"
+About Me:
+<br>
+I am an artist, a software developer, and a family man. I am working on some game designs in my spare time. Hoping to post them soon. I am currently job seeking, and looking to work on projects so feel free to reach out to me about anything at all.
+</p>
 
 
 
