@@ -5,10 +5,7 @@
 - 📫 How to reach me andrewworke@gmail.com
 
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewwinke123&show_icons=true&theme=radical&hide=stars)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewwinke123&hide=stars)
-
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewwinke123&show_icons=true&theme=highcontrast&hide=stars)
 
 <!---
 andrewwinke123/andrewwinke123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
