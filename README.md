@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ANYTHING at the moment
 - 📫 How to reach me andrewworke@gmail.com
 
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewwinke123)](https://github.com/andrewwinke123&hide=stars)
 
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewwinke123&show_icons=true&theme=radical)
 
