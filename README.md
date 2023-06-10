@@ -60,9 +60,9 @@ Contact me:
   </p>
 
 
-<p align="center"
+<p align="center">
 My family in front of our new house! 🚀 
-/p>
+</p>
 
 ![FullSizeRender](https://github.com/andrewwinke123/andrewwinke123/assets/127761364/4dd59fec-554e-42ab-b228-f6e9288834e5)
 
