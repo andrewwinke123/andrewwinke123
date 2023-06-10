@@ -14,17 +14,14 @@ Contact me:
 </a>
 </p>
 
-
-
-About Me:
-<br>
-- 👋 Hi, I’m @andrewwinke123
-- 👀 I’m interested in making boring aspects of the internet more fun
-- 🌱 I’m currently learning MERN full-stack development
-- 💞️ I’m looking to collaborate on ANYTHING at the moment
-- 📫 How to reach me andrewworke@gmail.com
-
-
+| |
+|:-------------------------:|
+| About Me: |
+| - 👋 Hi, I’m @andrewwinke123 |
+| - 👀 I’m interested in making boring aspects of the internet more fun |
+| - 🌱 I’m currently learning MERN full-stack development |
+| - 💞️ I’m looking to collaborate on ANYTHING at the moment |
+| - 📫 How to reach me andrewworke@gmail.com |
 
 
 
