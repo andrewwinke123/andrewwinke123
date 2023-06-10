@@ -7,6 +7,8 @@
 
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewwinke123&show_icons=true&theme=highcontrast&hide=stars)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewwinke123&layout=compact)
+
 <!---
 andrewwinke123/andrewwinke123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
