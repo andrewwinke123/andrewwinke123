@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ANYTHING at the moment
 - 📫 How to reach me andrewworke@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewwinke123)](https://github.com/anuraghazra/github-readme-stats)
+[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewwinke123)](https://github.com/anuraghazra&hide=stars)
+
+
 
 <!---
 andrewwinke123/andrewwinke123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
