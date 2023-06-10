@@ -14,6 +14,8 @@ Contact me:
 </a>
 </p>
 
+
+<p align="center"
 | |
 |:-------------------------:|
 | About Me: |
@@ -22,7 +24,7 @@ Contact me:
 | - 🌱 I’m currently learning MERN full-stack development |
 | - 💞️ I’m looking to collaborate on ANYTHING at the moment |
 | - 📫 How to reach me andrewworke@gmail.com |
-
+</p>
 
 
 
